@@ -14,6 +14,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -->
 
+## [0.10.0](https://github.com/cloudquery/cloudquery/compare/plugins/source/gcp/v0.9.8...plugins/source/gcp/v0.10.0) (2022-09-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* CloudQuery V2. (#1463)
+
+### Features
+
+* CloudQuery V2. ([#1463](https://github.com/cloudquery/cloudquery/issues/1463)) ([d1799f3](https://github.com/cloudquery/cloudquery/commit/d1799f347d1387dcc2b9a4f05aa2f48999ed1090))
+* **gcp:** Remove Classify and IgnoreError ([#1757](https://github.com/cloudquery/cloudquery/issues/1757)) ([3d34ca5](https://github.com/cloudquery/cloudquery/commit/3d34ca526941b1579f5c6f4360c2d364bfe96cc2))
+* Generate auto-filled config ([#1764](https://github.com/cloudquery/cloudquery/issues/1764)) ([2255404](https://github.com/cloudquery/cloudquery/commit/2255404012afa97d38b64c11d2f66405dfa84c6f))
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/plugin-sdk to v0.1.2 ([#1750](https://github.com/cloudquery/cloudquery/issues/1750)) ([fbe1b78](https://github.com/cloudquery/cloudquery/commit/fbe1b7835b0677a3d1c79bc10d95b991e2eb5129))
+* **deps:** Update module github.com/cloudquery/plugin-sdk to v0.2.4 ([#1761](https://github.com/cloudquery/cloudquery/issues/1761)) ([7a83a65](https://github.com/cloudquery/cloudquery/commit/7a83a65446119b5339f5f3a3759f7f160a3716b4))
+* **deps:** Update module github.com/cloudquery/plugin-sdk to v0.2.5 ([#1769](https://github.com/cloudquery/cloudquery/issues/1769)) ([c9c8c05](https://github.com/cloudquery/cloudquery/commit/c9c8c05b97ae349d7a21deef1e524d8a180c512d))
+* **deps:** Update module github.com/cloudquery/plugin-sdk to v0.2.6 ([#1770](https://github.com/cloudquery/cloudquery/issues/1770)) ([5bc205e](https://github.com/cloudquery/cloudquery/commit/5bc205ec7f4a7b2fa8a34793e8d746a43cbb03ed))
+
 ## [0.9.8](https://github.com/cloudquery/cloudquery/compare/plugins/source/gcp/v0.9.7...plugins/source/gcp/v0.9.8) (2022-09-01)
 
 
